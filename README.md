@@ -1,3 +1,6 @@
 # RPG MAKER MZ Plugins
 
-- CoreEx_Gamepad.js vibrate gamepad plugin
+自作プラグインです。
+リリース時のコードサイズを抑えることを重視しています。
+
+- CoreEx_Gamepad.js ゲームパッドの振動機能を実現
