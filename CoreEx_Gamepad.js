@@ -2,7 +2,7 @@
  * @target MZ
  * @plugindesc Vibrate Game Controller
  * @author Akitoshi Manabe
- * @url
+ * @url https://github.com/akimana/RPGMAKER_MZ_Plugins/
  * @lisense MIT
  * @help Version 1.0.0
  *
@@ -49,7 +49,7 @@
  * @target MZ
  * @plugindesc ゲームコントローラを振動させるプラグイン
  * @author Akitoshi Manabe
- * @url
+ * @url https://github.com/akimana/RPGMAKER_MZ_Plugins/
  * @lisense MIT
  * @help Version 1.0.0
  * 
@@ -91,14 +91,14 @@
  * @type number
  * @default 0.4
  * @decimals 1
- * @text 弱振動値
+ * @text 低周波振動値(0.0-1.0)
  * @desc 体感できる値をデフォルトにしています。
  * 
  * @arg strongMagnitude
  * @type number
  * @default 0.6
  * @decimals 1
- * @text 強振動値
+ * @text 高周波振動値(0.0-1.0)
  * @desc 体感できる値をデフォルトにしています。
  */
 (()=>{
